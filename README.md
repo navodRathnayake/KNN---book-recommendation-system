@@ -42,3 +42,6 @@ In this scenario, I had decided to develop Collaborative Recommendation System f
 For developing purpose, I used K-Nearest Neighbor (KNN) algorithm and used NearestNeighbors library from sklearn.neighbors and also used fuzzywuzzy library for making searching progress easily.
 
 Finally, I had the able to develop and train a model using K-Nearest Neighbor algorithm for performing a small book recommendation system. In this scenario, I have tried several times with passing different types of films’ names and got different suggestions from this trained machine learning model.
+
+
+![image](https://user-images.githubusercontent.com/82445185/196846740-60cfc3ee-c2cf-46cc-84c2-e5ae17979064.png)

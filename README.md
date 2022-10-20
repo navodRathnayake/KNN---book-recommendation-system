@@ -34,7 +34,7 @@ Consider about the development of machine learning model, selecting a correct al
 [1] Content Based Recommendation System
 [2] Popularity Based Recommendation System
 [3] Collaborative Based Recommendation System
----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 In this scenario, I had decided to develop Collaborative Recommendation System for books, Because the collaborative recommendation systems mostly use user’s rating as well.
 

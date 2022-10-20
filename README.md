@@ -30,7 +30,7 @@ Because of above reasons, The data must be cleaned!
 
 Consider about the development of machine learning model, selecting a correct algorithm is not an easy task at all times. However, for the recommendation systems, developers can develop those kinds of models in 3 different ways mainly.
 
----------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------
 [1] CONTENT BASED RECOMMENDATION SYSTEM
 [2] POPULARITY BASED RECOMMENDATION SYSTEM
 [3] COLLABORATIVE BASED RECOMMENDATION SYSTEM

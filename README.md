@@ -51,5 +51,5 @@ Finally, I had the able to develop and train a model using K-Nearest Neighbor al
 ![image](https://user-images.githubusercontent.com/82445185/196847037-20e15abe-718f-4a11-a841-096259a95c5b.png)
 ![image](https://user-images.githubusercontent.com/82445185/196847073-4c909830-fb22-4b93-b55f-4dbeeb7ab9de.png)
 
-[This project has developed for Machine Learning CW]
+This project has developed for Machine Learning CW
 

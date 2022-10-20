@@ -46,13 +46,10 @@ Finally, I had the able to develop and train a model using K-Nearest Neighbor al
 
 ![image](https://user-images.githubusercontent.com/82445185/196846843-f20bab53-407f-41e8-ab33-2f37b3bf7564.png)
 ![image](https://user-images.githubusercontent.com/82445185/196846902-e9ea2f8f-32a4-49e0-b27f-cb67b3a988c0.png)
-
 ![image](https://user-images.githubusercontent.com/82445185/196846962-04c2a4d9-f3e9-4aa4-b95e-c40c30fcb036.png)
 ![image](https://user-images.githubusercontent.com/82445185/196847004-1242c7ae-58ce-4557-9c78-0679917ef917.png)
 ![image](https://user-images.githubusercontent.com/82445185/196847037-20e15abe-718f-4a11-a841-096259a95c5b.png)
-
-
 ![image](https://user-images.githubusercontent.com/82445185/196847073-4c909830-fb22-4b93-b55f-4dbeeb7ab9de.png)
 
-
+[This project has developed for Machine Learning CW]
 
